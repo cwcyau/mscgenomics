@@ -37,11 +37,15 @@ library(geomnet)
 
 Due to limited time during the taught sessions it will not be possible to go into the depths of the algorithms and analysis methods presented. However, these example, free online resources cover the details to support your further learning:
 
+[Dimensionality Reduction - Lecture 11 - Deep Learning in Life Sciences ](https://www.youtube.com/watch?v=0byf2OF6AT0&ab_channel=ManolisKellis)
+
 [tSNE vs. UMAP: Global Structure](https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17)
 
 [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
 
 [UMAP Dimension Reduction, Main Ideas!!!](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
+
+[Deep Generative Networks for single-cell transcriptomics](https://www.youtube.com/watch?v=BMogp-ufJwY&ab_channel=SIB-SwissInstituteofBioinformatics)
 
 ## References
 
@@ -53,4 +57,11 @@ You may find these references useful for your reports:
 
 [Deep generative modeling for single-cell transcriptomics](https://www.nature.com/articles/s41592-018-0229-2)
 
+[Integrated analysis of multimodal single-cell data](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421005833%3Fshowall%3Dtrue)
+
+[Machine learning for single-cell genomics data analysis](https://www.sciencedirect.com/science/article/abs/pii/S2452310021000172)
+
+[Deep learning shapes single-cell data analysis](https://www.nature.com/articles/s41580-022-00466-x)
+
+[Challenges in unsupervised clustering of single-cell RNA-seq data](https://www.nature.com/articles/s41576-018-0088-9)
 
