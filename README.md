@@ -35,6 +35,8 @@ library(geomnet)
 
 ## Resources
 
+Due to limited time during the taught sessions it will not be possible to go into the depths of the algorithms and analysis methods presented. However, these example, free online resources cover the details to support your further learning:
+
 [tSNE vs. UMAP: Global Structure](https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17)
 
 [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
@@ -42,6 +44,8 @@ library(geomnet)
 [UMAP Dimension Reduction, Main Ideas!!!](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
 
 ## References
+
+You may find these references useful for your reports:
 
 [The art of using t-SNE for single-cell transcriptomics](https://www.nature.com/articles/s41467-019-13056-x) 
 
