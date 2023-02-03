@@ -37,7 +37,7 @@ library(geomnet)
 
 [tSNE vs. UMAP: Global Structure](https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17)
 
-[https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/)
+[Understanding UMAP](https://pair-code.github.io/understanding-umap/)
 
 [UMAP Dimension Reduction, Main Ideas!!!](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
 
