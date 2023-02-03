@@ -32,3 +32,21 @@ library(RColorBrewer)
 devtools::install_github("sctyner/geomnet")
 library(geomnet)
 ```
+
+## Resources
+
+[tSNE vs. UMAP: Global Structure](https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17)
+
+[https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/)
+
+[UMAP Dimension Reduction, Main Ideas!!!](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
+
+## References
+
+[The art of using t-SNE for single-cell transcriptomics](https://www.nature.com/articles/s41467-019-13056-x) 
+
+[Dimensionality reduction for visualizing single-cell data using UMAP](https://www.nature.com/articles/nbt.4314)
+
+[Deep generative modeling for single-cell transcriptomics](https://www.nature.com/articles/s41592-018-0229-2)
+
+
