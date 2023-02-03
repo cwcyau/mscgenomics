@@ -33,6 +33,14 @@ devtools::install_github("sctyner/geomnet")
 library(geomnet)
 ```
 
+## Lecture Notes
+
+to be uploaded
+
+## Practical 
+
+to be uploaded
+
 ## Resources
 
 Due to limited time during the taught sessions it will not be possible to go into the depths of the algorithms and analysis methods presented. However, these example, free online resources cover the details to support your further learning:
