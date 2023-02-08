@@ -39,7 +39,7 @@ to be uploaded
 
 ## Practical 
 
-to be uploaded
+An HTML file of the practical is available: [practical-studentversion.html](practical-studentversion.html)
 
 ## Resources
 
