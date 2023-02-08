@@ -41,6 +41,8 @@ to be uploaded
 
 An HTML file of the practical is available: [practical-studentversion.html](practical-studentversion.html)
 
+You will need to download this file and view it in a suitable web browser.
+
 ## Resources
 
 Due to limited time during the taught sessions it will not be possible to go into the depths of the algorithms and analysis methods presented. However, these example, free online resources cover the details to support your further learning:
